@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6773ce358d39de40a99b23aa"
+  },
+  "destination_id": "paris_1",
+  "name": "Paris",
+  "country": "France",
+  "accommodations": [
+    {
+      "name": "Hotel de Paris",
+      "rating": 4.5,
+      "price_per_night": 150
+    },
+    {
+      "name": "Hostel Paris",
+      "rating": 3.8,
+      "price_per_night": 50
+    }
+  ],
+  "itineraries": [
+    {
+      "day": 1,
+      "activities": [
+        "Eiffel Tower",
+        "Louvre Museum"
+      ]
+    },
+    {
+      "day": 2,
+      "activities": [
+        "Notre-Dame Cathedral",
+        "Seine River Cruise"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6783c06ddaf58711ca19c75b"
+  },
+  "destination_id": "los_angeles",
+  "name": "Los Angeles",
+  "country": "USA",
+  "best_season": "Spring",
+  "timezone": "PST",
+  "weather": "Warm and sunny"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c75d"
+  },
+  "destination_id": "new_york",
+  "name": "New York",
+  "country": "USA",
+  "best_season": "Fall",
+  "timezone": "EST",
+  "weather": "Crisp and cool"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c75f"
+  },
+  "destination_id": "tokyo",
+  "name": "Tokyo",
+  "country": "Japan",
+  "best_season": "Autumn",
+  "timezone": "JST",
+  "weather": "Cool and dry"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c760"
+  },
+  "destination_id": "sydney",
+  "name": "Sydney",
+  "country": "Australia",
+  "best_season": "Summer",
+  "timezone": "AEST",
+  "weather": "Warm and sunny"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c761"
+  },
+  "destination_id": "cape_town",
+  "name": "Cape Town",
+  "country": "South Africa",
+  "best_season": "Winter",
+  "timezone": "SAST",
+  "weather": "Mild and sunny"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c762"
+  },
+  "destination_id": "rio_de_janeiro",
+  "name": "Rio de Janeiro",
+  "country": "Brazil",
+  "best_season": "Summer",
+  "timezone": "BRT",
+  "weather": "Hot and humid"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c763"
+  },
+  "destination_id": "rome",
+  "name": "Rome",
+  "country": "Italy",
+  "best_season": "Spring",
+  "timezone": "CET",
+  "weather": "Mild and sunny"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c764"
+  },
+  "destination_id": "berlin",
+  "name": "Berlin",
+  "country": "Germany",
+  "best_season": "Fall",
+  "timezone": "CET",
+  "weather": "Cool and crisp"
+},
+{
+  "_id": {
+    "$oid": "6783c1eddaf58711ca19c765"
+  },
+  "destination_id": "toronto",
+  "name": "Toronto",
+  "country": "Canada",
+  "best_season": "Winter",
+  "timezone": "EST",
+  "weather": "Cold and snowy"
+}]
