@@ -1,0 +1,332 @@
+[
+  {
+    "file": null,
+    "source": "database: nodes(206), rels(109)",
+    "format": "csv",
+    "nodes": 206,
+    "relationships": 109,
+    "properties": 309,
+    "time": 74,
+    "rows": 315,
+    "batchSize": 20000,
+    "batches": 1,
+    "done": true,
+    "data": ""_id","_labels","best_season","country","name","timezone","weather","_start","_end","_type"
+"1",":Activity","","","Eiffel Tower","","",,,
+"2","","","","Mystery Location ","","",,,
+"3",":Activity","","","Louvre Museum","","",,,
+"4",":User","","","John Doe","","",,,
+"5","","","","Mystery Location ","","",,,
+"6",":Country","","","France","","",,,
+"7",":Activity","","","Eiffel Tower","","",,,
+"8",":Activity","","","Louvre Museum","","",,,
+"9",":User","","","John Doe","","",,,
+"10",":Landmark","","","Statue of Liberty","","",,,
+"11",":Activity","","","Eiffel Tower","","",,,
+"12",":Activity","","","Louvre Museum","","",,,
+"13",":Country","","","France","","",,,
+"14",":Landmark","","","Central Park","","",,,
+"15","","","","Mystery Location ","","",,,
+"16","","","","Mystery Location ","","",,,
+"17",":Landmark","","","Eiffel Tower","","",,,
+"18",":Landmark","","","Louvre Museum","","",,,
+"19",":Landmark","","","Notre-Dame Cathedral","","",,,
+"20","","","","Mystery Location ","","",,,
+"21","","","","Mystery Location ","","",,,
+"22","","","","Mystery Location ","","",,,
+"23","","","","Mystery Location ","","",,,
+"24","","","","Mystery Location ","","",,,
+"25","","","","Mystery Location ","","",,,
+"26",":Country","","","United States","","",,,
+"27",":Landmark","","","Big Ben","","",,,
+"28","","","","Mystery Location ","","",,,
+"29","","","","Mystery Location ","","",,,
+"30",":Landmark","","","Statue of Liberty","","",,,
+"31",":Landmark","","","Central Park","","",,,
+"32",":Landmark","","","Times Square","","",,,
+"33","","","","Mystery Location ","","",,,
+"34","","","","Mystery Location ","","",,,
+"35","","","","Mystery Location ","","",,,
+"36","","","","Mystery Location ","","",,,
+"37","","","","Mystery Location ","","",,,
+"38","","","","Mystery Location ","","",,,
+"39",":Country","","","United Kingdom","","",,,
+"40",":Country","","","United Arab Emirates","","",,,
+"41",":Country","","","Italy","","",,,
+"42",":Country","","","Japan","","",,,
+"43",":Country","","","India","","",,,
+"44",":Country","","","Australia","","",,,
+"45",":Country","","","Brazil","","",,,
+"46",":Country","","","South Africa","","",,,
+"47",":Landmark","","","Times Square","","",,,
+"48","","","","Mystery Location ","","",,,
+"49","","","","Mystery Location ","","",,,
+"50",":Destination","Fall","","New York City","GMT-5","Cool, 10°C to 20°C",,,
+"51","","","","Mystery Location ","","",,,
+"52","","","","Mystery Location ","","",,,
+"54","","","","Mystery Location ","","",,,
+"55","","","","Mystery Location ","","",,,
+"56",":Destination","Winter","","Dubai","GMT+4","Warm, 20°C to 30°C",,,
+"57","","","","Mystery Location ","","",,,
+"58","","","","Mystery Location ","","",,,
+"60","","","","Mystery Location ","","",,,
+"61","","","","Mystery Location ","","",,,
+"62",":Destination","Spring","","Tokyo","GMT+9","Cool, 10°C to 18°C",,,
+"63","","","","Mystery Location ","","",,,
+"64","","","","Mystery Location ","","",,,
+"65",":Destination","Winter","","Agra","GMT+5:30","Cool, 15°C to 25°C",,,
+"66","","","","Mystery Location ","","",,,
+"67","","","","Mystery Location ","","",,,
+"69","","","","Mystery Location ","","",,,
+"70","","","","Mystery Location ","","",,,
+"72","","","","Mystery Location ","","",,,
+"73","","","","Mystery Location ","","",,,
+"74",":Destination","Spring","","Cape Town","GMT+2","Mild, 18°C to 24°C",,,
+"75","","","","Mystery Location ","","",,,
+"76","","","","Mystery Location ","","",,,
+"77",":Landmark","","","Eiffel Tower","","",,,
+"78",":Landmark","","","Louvre Museum","","",,,
+"79",":Landmark","","","Notre-Dame Cathedral","","",,,
+"80","","","","Mystery Location ","","",,,
+"81","","","","Mystery Location ","","",,,
+"82","","","","Mystery Location ","","",,,
+"83","","","","Mystery Location ","","",,,
+"84","","","","Mystery Location ","","",,,
+"85","","","","Mystery Location ","","",,,
+"86",":Landmark","","","Statue of Liberty","","",,,
+"87",":Landmark","","","Central Park","","",,,
+"88",":Landmark","","","Times Square","","",,,
+"89","","","","Mystery Location ","","",,,
+"90","","","","Mystery Location ","","",,,
+"91","","","","Mystery Location ","","",,,
+"92","","","","Mystery Location ","","",,,
+"93","","","","Mystery Location ","","",,,
+"94","","","","Mystery Location ","","",,,
+"95",":Landmark","","","Big Ben","","",,,
+"96",":Landmark","","","London Eye","","",,,
+"97",":Landmark","","","Tower of London","","",,,
+"98","","","","Mystery Location ","","",,,
+"99","","","","Mystery Location ","","",,,
+"100","","","","Mystery Location ","","",,,
+"101","","","","Mystery Location ","","",,,
+"102","","","","Mystery Location ","","",,,
+"103","","","","Mystery Location ","","",,,
+"104",":Landmark","","","Burj Khalifa","","",,,
+"105",":Landmark","","","Palm Jumeirah","","",,,
+"106",":Landmark","","","Dubai Mall","","",,,
+"107","","","","Mystery Location ","","",,,
+"108","","","","Mystery Location ","","",,,
+"109","","","","Mystery Location ","","",,,
+"110","","","","Mystery Location ","","",,,
+"111","","","","Mystery Location ","","",,,
+"112","","","","Mystery Location ","","",,,
+"113",":Landmark","","","Colosseum","","",,,
+"114",":Landmark","","","Trevi Fountain","","",,,
+"115",":Landmark","","","Vatican City","","",,,
+"116","","","","Mystery Location ","","",,,
+"117","","","","Mystery Location ","","",,,
+"118","","","","Mystery Location ","","",,,
+"119","","","","Mystery Location ","","",,,
+"120","","","","Mystery Location ","","",,,
+"121","","","","Mystery Location ","","",,,
+"122",":Landmark","","","Tokyo Tower","","",,,
+"123",":Landmark","","","Shibuya Crossing","","",,,
+"124",":Landmark","","","Meiji Shrine","","",,,
+"125","","","","Mystery Location ","","",,,
+"126","","","","Mystery Location ","","",,,
+"127","","","","Mystery Location ","","",,,
+"128","","","","Mystery Location ","","",,,
+"129","","","","Mystery Location ","","",,,
+"130","","","","Mystery Location ","","",,,
+"131",":Landmark","","","Taj Mahal","","",,,
+"132",":Landmark","","","Agra Fort","","",,,
+"133","","","","Mystery Location ","","",,,
+"134","","","","Mystery Location ","","",,,
+"135","","","","Mystery Location ","","",,,
+"136","","","","Mystery Location ","","",,,
+"137",":Landmark","","","Sydney Opera House","","",,,
+"138",":Landmark","","","Bondi Beach","","",,,
+"139",":Landmark","","","Harbour Bridge","","",,,
+"140","","","","Mystery Location ","","",,,
+"141","","","","Mystery Location ","","",,,
+"142","","","","Mystery Location ","","",,,
+"143","","","","Mystery Location ","","",,,
+"144","","","","Mystery Location ","","",,,
+"145","","","","Mystery Location ","","",,,
+"146",":Landmark","","","Copacabana Beach","","",,,
+"147",":Landmark","","","Sugarloaf Mountain","","",,,
+"148","","","","Mystery Location ","","",,,
+"149","","","","Mystery Location ","","",,,
+"150","","","","Mystery Location ","","",,,
+"151","","","","Mystery Location ","","",,,
+"152",":Landmark","","","Table Mountain","","",,,
+"153",":Landmark","","","Cape Point","","",,,
+"154","","","","Mystery Location ","","",,,
+"155","","","","Mystery Location ","","",,,
+"156","","","","Mystery Location ","","",,,
+"157","","","","Mystery Location ","","",,,
+"158",":Landmark","","","London Eye","","",,,
+"159",":Landmark","","","Tower of London","","",,,
+"160",":Landmark","","","Burj Khalifa","","",,,
+"161",":Landmark","","","Palm Jumeirah","","",,,
+"162",":Landmark","","","Dubai Mall","","",,,
+"163",":Landmark","","","Colosseum","","",,,
+"164",":Landmark","","","Trevi Fountain","","",,,
+"165",":Landmark","","","Vatican City","","",,,
+"166",":Landmark","","","Tokyo Tower","","",,,
+"167",":Landmark","","","Shibuya Crossing","","",,,
+"168",":Landmark","","","Meiji Shrine","","",,,
+"169",":Landmark","","","Taj Mahal","","",,,
+"170",":Landmark","","","Agra Fort","","",,,
+"171",":Landmark","","","Sydney Opera House","","",,,
+"172",":Landmark","","","Bondi Beach","","",,,
+"173",":Landmark","","","Harbour Bridge","","",,,
+"174",":Landmark","","","Copacabana Beach","","",,,
+"175",":Landmark","","","Sugarloaf Mountain","","",,,
+"176",":Landmark","","","Table Mountain","","",,,
+"177",":Landmark","","","Cape Point","","",,,
+"178",":Destination","Spring","France","Paris","CET","Mild and sunny",,,
+"179",":Destination","Summer","","Nice","CET","Warm and sunny",,,
+"180",":Country","","","USA","","",,,
+"181",":Destination","Autumn","","New York","EST","Cool and vibrant",,,
+"182",":Destination","Winter","","Los Angeles","PST","Warm and sunny",,,
+"183",":Destination","Spring","","Chicago","CST","Mild and windy",,,
+"184",":Destination","Summer","","Sydney","AEST","Warm and sunny",,,
+"185",":Destination","Spring","","Melbourne","AEST","Mild and sunny",,,
+"186",":Destination","Autumn","","Brisbane","AEST","Pleasant and warm",,,
+"187",":Destination","Spring","","Tokyo","JST","Mild and cherry blossoms",,,
+"188",":Destination","Autumn","","Osaka","JST","Cool and pleasant",,,
+"189",":Destination","Autumn","","Kyoto","JST","Cool and scenic",,,
+"190",":Country","","","UK","","",,,
+"191",":Destination","Summer","","London","GMT","Warm and lively",,,
+"192",":Destination","Spring","","Edinburgh","GMT","Cool and scenic",,,
+"193",":Destination","Autumn","","Manchester","GMT","Cool and vibrant",,,
+"194",":Destination","Winter","","Delhi","IST","Cool and festive",,,
+"195",":Destination","Monsoon","","Mumbai","IST","Rainy and vibrant",,,
+"196",":Destination","Winter","","Jaipur","IST","Cool and royal",,,
+"197",":Destination","Spring","","Rome","CET","Mild and historic",,,
+"198",":Destination","Autumn","","Venice","CET","Cool and romantic",,,
+"199",":Destination","Summer","","Florence","CET","Warm and artistic",,,
+"200",":Country","","","Canada","","",,,
+"201",":Destination","Summer","","Toronto","EST","Warm and multicultural",,,
+"202",":Destination","Spring","","Vancouver","PST","Mild and scenic",,,
+"203",":Destination","Autumn","","Montreal","EST","Cool and historic",,,
+"204",":Country","","","Germany","","",,,
+"205",":Destination","Spring","","Berlin","CET","Mild and vibrant",,,
+"206",":Destination","Autumn","","Munich","CET","Cool and festive",,,
+"207",":Destination","Winter","","Frankfurt","CET","Cold and modern",,,
+"208",":Destination","Summer","","Rio de Janeiro","BRT","Warm and festive",,,
+"209",":Destination","Autumn","","São Paulo","BRT","Mild and vibrant",,,
+"210",":Destination","Spring","","Salvador","BRT","Pleasant and cultural",,,
+,,,,,,,"2","3","INCLUDES"
+,,,,,,,"4","5","REVIEWED"
+,,,,,,,"6","178","LOCATED_IN"
+,,,,,,,"6","179","LOCATED_IN"
+,,,,,,,"13","178","LOCATED_IN"
+,,,,,,,"13","179","LOCATED_IN"
+,,,,,,,"15","16","LOCATED_IN"
+,,,,,,,"20","21","INCLUDES"
+,,,,,,,"22","23","INCLUDES"
+,,,,,,,"24","25","INCLUDES"
+,,,,,,,"28","29","LOCATED_IN"
+,,,,,,,"33","34","INCLUDES"
+,,,,,,,"35","36","INCLUDES"
+,,,,,,,"37","38","INCLUDES"
+,,,,,,,"41","197","LOCATED_IN"
+,,,,,,,"41","198","LOCATED_IN"
+,,,,,,,"41","199","LOCATED_IN"
+,,,,,,,"42","62","LOCATED_IN"
+,,,,,,,"42","187","LOCATED_IN"
+,,,,,,,"42","188","LOCATED_IN"
+,,,,,,,"42","189","LOCATED_IN"
+,,,,,,,"43","194","LOCATED_IN"
+,,,,,,,"43","195","LOCATED_IN"
+,,,,,,,"43","196","LOCATED_IN"
+,,,,,,,"44","184","LOCATED_IN"
+,,,,,,,"44","185","LOCATED_IN"
+,,,,,,,"44","186","LOCATED_IN"
+,,,,,,,"45","208","LOCATED_IN"
+,,,,,,,"45","209","LOCATED_IN"
+,,,,,,,"45","210","LOCATED_IN"
+,,,,,,,"46","74","LOCATED_IN"
+,,,,,,,"48","49","LOCATED_IN"
+,,,,,,,"50","10","INCLUDES"
+,,,,,,,"50","14","INCLUDES"
+,,,,,,,"50","30","INCLUDES"
+,,,,,,,"50","31","INCLUDES"
+,,,,,,,"50","32","INCLUDES"
+,,,,,,,"50","47","INCLUDES"
+,,,,,,,"50","86","INCLUDES"
+,,,,,,,"50","87","INCLUDES"
+,,,,,,,"50","88","INCLUDES"
+,,,,,,,"51","52","LOCATED_IN"
+,,,,,,,"54","55","LOCATED_IN"
+,,,,,,,"56","104","INCLUDES"
+,,,,,,,"56","105","INCLUDES"
+,,,,,,,"56","106","INCLUDES"
+,,,,,,,"56","160","INCLUDES"
+,,,,,,,"56","161","INCLUDES"
+,,,,,,,"56","162","INCLUDES"
+,,,,,,,"57","58","LOCATED_IN"
+,,,,,,,"60","61","LOCATED_IN"
+,,,,,,,"62","122","INCLUDES"
+,,,,,,,"62","123","INCLUDES"
+,,,,,,,"62","124","INCLUDES"
+,,,,,,,"62","166","INCLUDES"
+,,,,,,,"62","167","INCLUDES"
+,,,,,,,"62","168","INCLUDES"
+,,,,,,,"63","64","LOCATED_IN"
+,,,,,,,"65","131","INCLUDES"
+,,,,,,,"65","132","INCLUDES"
+,,,,,,,"65","169","INCLUDES"
+,,,,,,,"65","170","INCLUDES"
+,,,,,,,"66","67","LOCATED_IN"
+,,,,,,,"69","70","LOCATED_IN"
+,,,,,,,"72","73","LOCATED_IN"
+,,,,,,,"74","152","INCLUDES"
+,,,,,,,"74","153","INCLUDES"
+,,,,,,,"74","176","INCLUDES"
+,,,,,,,"74","177","INCLUDES"
+,,,,,,,"75","76","LOCATED_IN"
+,,,,,,,"80","81","INCLUDES"
+,,,,,,,"82","83","INCLUDES"
+,,,,,,,"84","85","INCLUDES"
+,,,,,,,"89","90","INCLUDES"
+,,,,,,,"91","92","INCLUDES"
+,,,,,,,"93","94","INCLUDES"
+,,,,,,,"98","99","INCLUDES"
+,,,,,,,"100","101","INCLUDES"
+,,,,,,,"102","103","INCLUDES"
+,,,,,,,"107","108","INCLUDES"
+,,,,,,,"109","110","INCLUDES"
+,,,,,,,"111","112","INCLUDES"
+,,,,,,,"116","117","INCLUDES"
+,,,,,,,"118","119","INCLUDES"
+,,,,,,,"120","121","INCLUDES"
+,,,,,,,"125","126","INCLUDES"
+,,,,,,,"127","128","INCLUDES"
+,,,,,,,"129","130","INCLUDES"
+,,,,,,,"133","134","INCLUDES"
+,,,,,,,"135","136","INCLUDES"
+,,,,,,,"140","141","INCLUDES"
+,,,,,,,"142","143","INCLUDES"
+,,,,,,,"144","145","INCLUDES"
+,,,,,,,"148","149","INCLUDES"
+,,,,,,,"150","151","INCLUDES"
+,,,,,,,"154","155","INCLUDES"
+,,,,,,,"156","157","INCLUDES"
+,,,,,,,"180","181","LOCATED_IN"
+,,,,,,,"180","182","LOCATED_IN"
+,,,,,,,"180","183","LOCATED_IN"
+,,,,,,,"190","191","LOCATED_IN"
+,,,,,,,"190","192","LOCATED_IN"
+,,,,,,,"190","193","LOCATED_IN"
+,,,,,,,"200","201","LOCATED_IN"
+,,,,,,,"200","202","LOCATED_IN"
+,,,,,,,"200","203","LOCATED_IN"
+,,,,,,,"204","205","LOCATED_IN"
+,,,,,,,"204","206","LOCATED_IN"
+,,,,,,,"204","207","LOCATED_IN"
+"
+  }
+]
